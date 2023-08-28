@@ -1,0 +1,19 @@
+{
+  "name": "adventurer_races",
+  "version": "1.0.1",
+  "description": "Razas de aventureros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyJaccob/AdventurerRaces.git"
+  },
+  "author": "JonnyJaccob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnyJaccob/AdventurerRaces/issues"
+  },
+  "homepage": "https://github.com/JonnyJaccob/AdventurerRaces#readme"
+}
