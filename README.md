@@ -10,7 +10,7 @@ $npm install adventurer_races
 ``` js
     const Aventureros = require('adventurer_races');
 
-    let frase = Aventureros.obtieneFrase(n); //Donde n es un numero del 0 al 4
+    let frase = Aventureros.GetRazaAventurero(n); //Donde n es un numero del 0 al 4
 ```
 
 ## si no tienes npm
