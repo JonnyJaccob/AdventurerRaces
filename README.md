@@ -20,3 +20,6 @@ npm init
 npm login
 
 npm publish
+
+## actualizar paquete
+npm update {nombre}
